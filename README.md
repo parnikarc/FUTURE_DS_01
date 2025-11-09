@@ -8,7 +8,7 @@ The **SuperStore Business Sales Dashboard** is an interactive Power BI report th
 ## 📁 Project File
 - **File Name:** `supersales_dashboard.pbix`
 - **Tool Used:** Microsoft Power BI
-- **Data Source:** SuperStore Sales Dataset
+- **Data Source:** https://www.kaggle.com/datasets/mohamed38/superstoredataset
 - **Period Covered:** 2011 – 2014
 
 ---
